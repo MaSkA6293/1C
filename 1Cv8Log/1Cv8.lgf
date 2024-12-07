@@ -29,4 +29,6 @@ ba82094b-25e7-4ae1-8700-30691ea10885
 {4,"_$Transaction$_.Rollback",14},
 {4,"_$InfoBase$_.DBConfigUpdateError",15},
 {4,"_$PerformError$_",16},
-{4,"_$Data$_.Unpost",17}
+{4,"_$Data$_.Unpost",17},
+{5,5db90407-7426-43b6-b125-8bdd1cd4b5ab,"Документ.РасходнаяНакладная",4},
+{5,6a7aa2d5-076c-499b-87b4-87f542ffd7e6,"Документ.ПриходнаяНакладная",3}
